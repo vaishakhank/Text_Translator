@@ -1,6 +1,3 @@
-"""
-A
-"""
 
 import os
 from ibm_watson import LanguageTranslatorV3
